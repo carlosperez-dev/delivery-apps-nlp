@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Scraper
+src/GooglePlay_data_collection.ipynb
