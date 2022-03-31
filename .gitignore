@@ -131,3 +131,4 @@ dmypy.json
 # Scraper
 src/GooglePlay_data_collection.ipynb
 *.DS_Store
+src/.DS_Store
