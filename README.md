@@ -1,6 +1,7 @@
 # Sainsbury's Delivery App Reviews Analysis
-This project aimed to employ natural language processing techniques to understand customer sentiments towards Sainsbury's grocery delivery app and extract frequent pain points that customers face to suggest management solutions. This analysis is centred around reviews from the Google Play Store and they are compared to 6 other delivery apps from the following supermarkets: Tesco, Asda, Aldi, Morrison's, M&S, and Waitrose
+This project aimed to employ natural language processing techniques to understand customer sentiments towards Sainsbury's grocery delivery app and extract frequent pain points that customers face to suggest management solutions. This analysis is centred around reviews from the Google Play Store and they are compared to 6 other delivery apps from the following supermarkets: Tesco, Asda, Aldi, Morrison's, M&S, and Waitrose.
 
+![Webp net-resizeimage](https://user-images.githubusercontent.com/67346082/165345717-66f4a829-49f5-43b6-b2a6-bdf75d226bd9.png)
 
 ## How It's Made:
 
