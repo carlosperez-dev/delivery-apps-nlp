@@ -11,7 +11,7 @@ This project uses an open-source Google Play Store scraper to retrieve reviews f
 
 To extract the most common complaints and compliments that customers had from the data NLTK's sentence tokeniser was used to split the reviews into sentences, which was followed by applying NLTK's tweet tokenizer to split the reviews into words. The words were then normalised by lowercasing them and by combining compound words with multiple spellings, but identical meanings such as checkout, Clubcard, login, logout, sparkcard etc. Lastly, the resulting tokenised words from each review were lemmatized by using part-of-speech tagging to ensure the resulting lemmatized words were classified based on their definition in context. Lastly, before performing any further analysis, punctuations, digits, symbols, and different sets of stop words were removed based on the analysis being performed
 
-## Recommendations to management
+## Management Recommendations
 
 Given the results of the analysis, we suggest investigating the functionality issues by reviewing errors which have been recorded by the app during the checkout and payment processes. Addressing these issues must be a priority given most of the negative reviews received have resulted from failures during these stages. Furthermore, to alleviate the frustration felt by customers who are unable to log in after several attempts it is advised to trigger a message to contact support directly or move to the web version to complete the order. This would serve as a short-term solution whilst the issue is investigated and solved. 
 
